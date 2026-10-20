@@ -1,0 +1,162 @@
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 1
+Ingrese los kilómetros recorridos: 5
+Concepto               Valor
+---------------------  -------
+Kilómetros recorridos  5.0
+Importe total          $80.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 1
+Ingrese los kilómetros recorridos: 20
+Concepto               Valor
+---------------------  -------
+Kilómetros recorridos  20.0
+Importe total          $215.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 1
+Ingrese los kilómetros recorridos: 21
+Concepto               Valor
+---------------------  -------
+Kilómetros recorridos  21.0
+Importe total          $201.60
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 1
+Ingrese los kilómetros recorridos: 30
+Concepto               Valor
+---------------------  -------
+Kilómetros recorridos  30.0
+Importe total          $274.50
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 2
+Ingrese el total de ventas del mes: 5000
+Concepto       Valor
+-------------  --------
+Ventas         $5000.00
+Comisión       $250.00
+Bono           $0.00
+Total a pagar  $250.00
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 2
+Ingrese el total de ventas del mes: 10000
+Concepto       Valor
+-------------  ---------
+Ventas         $10000.00
+Comisión       $800.00
+Bono           $0.00
+Total a pagar  $800.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 2
+Ingrese el total de ventas del mes: 50000
+Concepto       Valor
+-------------  ---------
+Ventas         $50000.00
+Comisión       $4000.00
+Bono           $0.00
+Total a pagar  $4000.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 2
+Ingrese el total de ventas del mes: 50001
+Concepto       Valor
+-------------  ---------
+Ventas         $50001.00
+Comisión       $4000.08
+Bono           $1000.00
+Total a pagar  $5000.08
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 3
+Ingrese los días de retraso: 0
+Concepto         Valor
+---------------  -------
+Días de retraso  0
+Multa total      $0.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 3
+Ingrese los días de retraso: 10
+Concepto         Valor
+---------------  -------
+Días de retraso  10
+Multa total      $50.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 3
+Ingrese los días de retraso: 11
+Concepto         Valor
+---------------  -------
+Días de retraso  11
+Multa total      $60.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 3
+Ingrese los días de retraso: 25
+Concepto         Valor
+---------------  -------
+Días de retraso  25
+Multa total      $200.00
+
+PRÁCTICA DE REPASO: EXAMEN PARCIAL
+1. Viaje en taxi
+2. Comisión de ventas
+3. Multa de biblioteca
+0. Salir
+Seleccione una opción: 3
+Ingrese los días de retraso: 40
+Concepto         Valor
+---------------  -------
+Días de retraso  40
+Multa total      $200.00
